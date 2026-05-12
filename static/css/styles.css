@@ -1,6 +1,6 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Outfit:wght@100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Outfit:wght@100..900&display=swap'); */
 
 :root {
     --bg-main: #F0F4FF;
@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
 }
 
 .hero {
-    min-height: 120vh;
+    min-height: 100vh;
     position: relative;
     display: flex;
     flex-direction: column;
